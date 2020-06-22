@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinListViewAssignment</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+</resources>
